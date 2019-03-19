@@ -9,8 +9,8 @@ uptimerobot:
   statuses: "2-9"
 
 website:
-  title: "Uptime Robot Status"
-  copyright: "Uptime Robot"
+  title: "Zxilly Cloud Status"
+  copyright: "Zxilly"
   links:
-    - name: Home
+    - name: Blog
       href: https://learningman.top
