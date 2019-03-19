@@ -13,7 +13,5 @@ website:
   title: "Uptime Robot Status"
   copyright: "Uptime Robot"
   links:
-    - name: Home
-      href: https://uptimerobot.com
-    - name: GitHub
-      href: https://github.com/giuem/uptimerobot-page
+    - name: Blog
+      href: https://learningman.top
